@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains a list of domains for shady, dodgy, moronic, brain-dead, or just plain stupid recruiters who spam job postings hoping to collect a placement fee.
+This repository contains a list of domains for shady, dodgy, moronic, brain-dead, or just plain stupid technical recruiters who spam job postings hoping to collect a placement fee.
 
 Qualifications include but are not limited to:
 
